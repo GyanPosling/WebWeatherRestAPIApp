@@ -7,8 +7,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.*;
-import ru.alishev.springcourse.FirstRestApp.models.Person;
-import ru.alishev.springcourse.FirstRestApp.services.PeopleService;
 import ru.alishev.springcourse.FirstRestApp.utils.PersonCreatedException;
 import ru.alishev.springcourse.FirstRestApp.utils.PersonErrorResponce;
 import ru.alishev.springcourse.FirstRestApp.utils.PersonNotFoundException;
